@@ -1,0 +1,15 @@
+
+    .footer {
+        background-color: #343a40;  /* Color de fondo oscuro (Bootstrap bg-dark) */
+        color: #fff;                /* Texto blanco */
+        text-align: center;         /* Centra el texto */
+        padding: 20px 0;            /* Espacio arriba y abajo */
+        box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.5);  /* Sombra para un efecto flotante */
+        margin-top: auto;           /* Empuja el footer al fondo */
+      }
+      
+      .footer p {
+        margin: 5px 0;  /* Espacio entre párrafos */
+        font-size: 0.9rem;  /* Tamaño de texto más pequeño */
+      }
+      

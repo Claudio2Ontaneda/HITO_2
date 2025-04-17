@@ -1,0 +1,22 @@
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    margin: 10px;
+   
+}
+h2{
+    text-align: center;
+}
+input{
+    margin-top: 10px;
+}
+button{
+    margin-top: 10px;
+}
+p{
+    text-align: center;
+}
